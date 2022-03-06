@@ -27,9 +27,9 @@ import java.util.*;
             return "Fine. And with that, I'll be off.";
         }
     }
+}
 
     // BONUS NINJA 
     // See the specs for overloading the guessGreeting method 
     // = "comment from-rainbow" > // BONUS SENSEI 
     // Write your own AlfredQuotes method using any of the String methods you've learned about!
-}
